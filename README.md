@@ -49,7 +49,7 @@
     .private-intro{max-width:820px;margin:-15px 0 38px;line-height:1.85;color:#81586b;font-size:.9rem}
     .private-warning{padding:13px 16px;border:1px solid rgba(172,53,104,.2);background:rgba(255,255,255,.52);font-size:.78rem;line-height:1.7;color:#79415a;margin-bottom:25px}
     .private-subhead{font:500 2rem var(--serif);margin:42px 0 18px;color:#51213a}
-    .love-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+    .love-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
     .love-card{padding:24px 22px;background:rgba(255,255,255,.76);border:1px solid rgba(176,66,112,.2);box-shadow:0 12px 35px rgba(145,52,91,.07);transition:transform .3s}
     .love-card:hover{transform:translateY(-5px)}
     .love-card .love-index{font:.66rem var(--mono);letter-spacing:.15em;color:#c52e72}
@@ -185,13 +185,14 @@
     </div></section>
 
     <section class="dark-section" id="music"><div class="wrap">
-      <div class="section-head reveal"><div><div class="section-no">02 / SONIDO</div><h2 class="section-title">Two sides. <em>One artist.</em></h2></div><p class="section-intro">Dos canciones, dos energías y dos maneras de mostrar lo que existe detrás del nombre.</p></div>
+      <div class="section-head reveal"><div><div class="section-no">02 / SONIDO</div><h2 class="section-title">Two sides. <em>One artist.</em></h2></div><p class="section-intro">Tres canciones, distintas energías y diferentes maneras de mostrar lo que existe detrás del nombre.</p></div>
       <div class="music-grid">
         <article class="music-card reveal"><span class="track-num">ORIGINAL TRACK / 001</span><h3>Come Back<br>Around</h3><p>Una canción nostálgica y emocional, con una vibra pop-rock melancólica inspirada en la sensibilidad musical de Rosé. Habla de los recuerdos, de extrañar y de las pequeñas cosas que alguien deja atrás.</p><div class="music-foot"><span class="mono">NOSTALGIA · LONGING</span><span class="mono">01 / <span class="accent">♡</span></span></div></article>
         <article class="music-card bad reveal"><span class="track-num">ORIGINAL TRACK / 002</span><h3>Bad<br>Habit.</h3><p>El lado más atrevido, sensual y seguro de sí mismo. Una energía más oscura, intensa y provocadora que contrasta con la nostalgia de su otro lanzamiento.</p><div class="music-foot"><span class="mono">BOLD · DARK · SENSUAL</span><span class="mono">02 / <span class="accent">✦</span></span></div></article>
+        <article class="music-card reveal"><span class="track-num">ORIGINAL TRACK / 003</span><h3>Licky<br>Licky.</h3><p>Reggaetón urbano con una vibra atrevida, un dembow marcado y bajos contundentes. Una canción hecha para subir la energía, bailar y perrear sin parar.</p><div class="music-foot"><span class="mono">REGGAETÓN · URBAN · DANCE</span><span class="mono">03 / <span class="accent">♬</span></span></div></article>
       </div>
       <p class="mono reveal" style="margin-top:22px">TWO MOODS. TWO STORIES. BOTH ARE ME.</p>
-      <div class="studio-note reveal"><span class="mono">FROM THE STUDIO / NOTE 003</span><p>Estas canciones son parte de una etapa en la que estoy aprendiendo a convertir emociones en sonido. No tienen que parecerse entre sí: precisamente ahí está la gracia.</p><span class="mono accent">WRITTEN, PRODUCED & IMAGINED BY SION-HARU</span></div>
+      <div class="studio-note reveal"><span class="mono">FROM THE STUDIO / NOTE 003</span><p>Estas canciones son parte de una etapa en la que estoy aprendiendo a convertir ideas y emociones en sonido. No tienen que parecerse entre sí: precisamente ahí está la gracia.</p><span class="mono accent">WRITTEN, PRODUCED & IMAGINED BY SION-HARU</span></div>
     </div></section>
 
     <section id="world"><div class="wrap">
@@ -220,7 +221,7 @@
       <div class="section-head reveal"><div><div class="section-no">06 / ARCHIVO PERSONAL</div><h2 class="section-title">Little things <em>about me.</em></h2></div><p class="section-intro">Pequeños datos que completan el perfil detrás de la música y el personaje artístico.</p></div>
       <div class="facts-grid">
         <article class="fact-card reveal"><div class="fact-icon">♫</div><h3>Music is my language</h3><p>Me gusta explorar el rap, el pop y los conceptos intensos. Mi playlist puede pasar de algo nostálgico a una canción llena de actitud.</p></article>
-        <article class="fact-card reveal"><div class="fact-icon">✦</div><h3>Two sides</h3><p>COME BACK AROUND muestra mi parte sensible; BAD HABIT, mi lado más atrevido. Ninguna cancela a la otra: ambas me representan.</p></article>
+        <article class="fact-card reveal"><div class="fact-icon">✦</div><h3>Two sides</h3><p>COME BACK AROUND muestra mi parte sensible; BAD HABIT, mi lado más atrevido; y LICKY LICKY, mi energía más urbana y bailable. Cada canción representa una faceta distinta de mi música.</p></article>
         <article class="fact-card reveal"><div class="fact-icon">⌘</div><h3>Code & create</h3><p>Estudio programación y me gusta experimentar con páginas web, diseños, ideas digitales y proyectos con identidad propia.</p></article>
         <article class="fact-card reveal"><div class="fact-icon">☾</div><h3>Dark aesthetics</h3><p>Me atraen los tonos oscuros, el rojo profundo, la plata, las atmósferas misteriosas y los diseños que parecen contar una historia.</p></article>
         <article class="fact-card reveal"><div class="fact-icon">♡</div><h3>My inspirations</h3><p>RUKA y JISOO ocupan un lugar especial entre mis favoritas. También sigo a BABYMONSTER, BLACKPINK, KATSEYE y otros grupos.</p></article>
@@ -235,8 +236,7 @@
       <h3 class="private-subhead reveal">♡ Mi historial amoroso</h3>
       <div class="love-grid">
         <article class="love-card reveal"><span class="love-index">LOVE FILE / 01</span><h4>“G”</h4><p>Anduve con un chico al que apodaremos “G”. La verdad, sí me enamoré mucho, porque me trataba como yo siempre había querido. Peeero había un problema: él tenía un estilo de apego evitativo y yo uno ansioso. Cuando me ponía muy empalagoso, parecía que no le gustaba tanto, pero no me decía nada.</p><p>Por ciertos temas terminamos en buenos términos y todavía nos seguimos en Instagram. Aunque ya no estemos juntos, fue alguien importante para mí.</p><div class="funfact">♡ A veces una relación termina y el cariño no desaparece de golpe.</div></article>
-        <article class="love-card reveal"><span class="love-index">LOVE FILE / 02</span><h4>“D”</h4><p>A “D” lo amaba mucho, pero era celoso y posesivo. Me preguntaba con quién hablaba y llegó un punto en que sentía que me manipulaba. Una “amiga” le contó que yo le ocultaba cosas (🧠?), se molestó y revisó mi celular; no encontró nada, pero eso aumentó la desconfianza.</p><p>La situación me agotó y decidí terminar. Querer a alguien no significa tener que aceptar que invada tu privacidad o controle con quién hablas.</p><div class="funfact">FUN FACT: “D” filtró mi número por celos. Eso no estuvo bien: mi información personal debía respetarse.</div></article>
-        <article class="love-card reveal"><span class="love-index">LOVE FILE / 03</span><h4>“H”</h4><p>Por otro lado, con “H” todo funcionó bastante bien. Su carrera como enfermero y sus horarios terminaron separándonos: sentía que no podía darme el tiempo que yo necesitaba.</p><p>Terminamos en buenos términos. Todavía conservo su número, un collar que me regaló y seguimos en Instagram. Me quedo con lo bonito de esa etapa y con el respeto que hubo al cerrar el ciclo.</p><div class="funfact">♡ Algunas despedidas no necesitan convertirse en una pelea.</div></article>
+        <article class="love-card reveal"><span class="love-index">LOVE FILE / 02</span><h4>“H”</h4><p>Por otro lado, con “H” todo funcionó bastante bien. Su carrera como enfermero y sus horarios terminaron separándonos: sentía que no podía darme el tiempo que yo necesitaba.</p><p>Terminamos en buenos términos. Todavía conservo su número, un collar que me regaló y seguimos en Instagram. Me quedo con lo bonito de esa etapa y con el respeto que hubo al cerrar el ciclo.</p><div class="funfact">♡ Algunas despedidas no necesitan convertirse en una pelea.</div></article>
       </div>
       <p class="privacy-foot reveal">Y bueno… ese fue el capítulo de mi vida amorosa. Cerramos expediente. ♡</p>
       <h3 class="private-subhead reveal">✧ Mis amistades fuera del rol</h3>
@@ -261,6 +261,7 @@
         <article class="poll-card" data-poll="favorite-release"><div class="poll-kicker">POLL / 01</div><h3>¿Qué lanzamiento te gusta más?</h3><div class="poll-options">
           <label class="poll-option"><input type="radio" name="favorite-release" value="Come Back Around"> COME BACK AROUND</label>
           <label class="poll-option"><input type="radio" name="favorite-release" value="Bad Habit"> BAD HABIT</label>
+          <label class="poll-option"><input type="radio" name="favorite-release" value="Licky Licky"> LICKY LICKY</label>
           <label class="poll-option"><input type="radio" name="favorite-release" value="Licky Licky"> LICKY LICKY</label>
         </div><button class="poll-submit" type="button">Enviar voto ↗</button><p class="poll-status" aria-live="polite"></p></article>
         <article class="poll-card" data-poll="next-content"><div class="poll-kicker">POLL / 02</div><h3>¿Qué contenido quieres ver después?</h3><div class="poll-options">
